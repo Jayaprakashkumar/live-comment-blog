@@ -44,7 +44,7 @@ https://www.apachefriends.org/download.html
 
 Find the screenshot below.
 
-![OVerall view](https://github.com/Jayaprakashkumar/live-comments-blog/blob/master/screenshots/blog.PNG)
+![OVerall view](https://github.com/ManushreeMallaraju/live-comment-blog/blob/master/screenshots/blog.PNG)
 
 ## Multiple Tabs
 
@@ -52,7 +52,7 @@ Find the screenshot below.
 
 Find the screenshot below.
 
-![multiple tab](https://github.com/Jayaprakashkumar/live-comments-blog/blob/master/screenshots/multiple_tab.png)
+![multiple tab](https://github.com/ManushreeMallaraju/live-comment-blog/blob/master/screenshots/multiple_tab.png)
 
 ## Sort the comments
 
@@ -60,5 +60,5 @@ Find the screenshot below.
 
 Find the screenshot below.
 
-![sort comments](https://github.com/Jayaprakashkumar/live-comments-blog/blob/master/screenshots/sort.png)
+![sort comments](https://github.com/ManushreeMallaraju/live-comment-blog/blob/master/screenshots/sort.png)
 
